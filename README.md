@@ -1,6 +1,9 @@
 ﻿Kerberos
 ========
-Todo.
+Todo
+* design and implement framework
+* design a plan for the game
+* implement a prototype
 
 Building
 --------
